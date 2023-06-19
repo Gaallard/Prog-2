@@ -1,0 +1,10 @@
+----------cliente 1------------
+nombre agustin
+apellido gallardo
+tipo oro
+estado inactivo
+----------cliente 2------------
+nombre guido
+apellido olguin
+tipo black
+estado activo
